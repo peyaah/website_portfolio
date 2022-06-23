@@ -1,3 +1,18 @@
-#app{
-    color: #010609 !important;
+
+
+
+
+.v-tab{
+    text-transform: none;
 }
+
+/* BUTTON STYLES */
+.v-btn__content{
+    text-transform: none;
+}
+
+/* ICON BUTTON ROTATE */
+.v-icon.notranslate.mdi.mdi-send.theme--dark{
+    transform: rotate(-40deg);
+}
+
